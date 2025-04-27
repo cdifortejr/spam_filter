@@ -21,7 +21,7 @@ Key features:
 - **Dataset**: [SMS Spam Collection Dataset](https://huggingface.co/datasets/sms_spam)
 - **Training**: Run in Google Colab using free GPUs (T4)
 - **Saving**: Model saved in Hugging Face format (`.safetensors`, `config.json`, `tokenizer.json`, etc.)
-- **Deployment**: Ready for easy hosting on Hugging Face Spaces or private websites
+- **Deployment**: - **Final trained model**: [Hosted on Hugging Face 🚀](https://huggingface.co/cdifortejr/spam_filterv2/tree/main)
 
 ---
 
